@@ -1,2 +1,8 @@
 1. Create a Dynamic Array Data Structure that performs all the actions of the ArrayList. It should create the new array of size 1.5 times the previous size.
 2.Stack implementation
+
+3.Project Discussion
+1.Create abc.txt with 2 paths.
+2.Recursively traverse all the files and folders to enlist all files with names and paths.
+3.Create an ArrayList of file paths.
+4.Create a csv file of the file names and file paths.
